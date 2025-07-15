@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Даша!</h1> 
 
 <p align="center">
-  <strong>Начинающий веб-разработчик</strong> 💻<br>
+  <strong>Java Developer</strong> 💻<br>
 </p>
 
 <p align="center">
