@@ -11,23 +11,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-## 🛠️ Мои навыки
-
-### 🔧 Backend
-- ** Java**  
-- ** Spring Framework**  
-- ** Jakarta EE**  
-
-### 🎨 Frontend
-- ** JavaScript**
-- ** HTML**  
-- ** CSS**    
-
-### � Инструменты 
-- ** IntelliJ IDEA**  
-- ** VS Code**  
-- ** Git** 
-
 ## 🎓 Образование
 
 ** Пензенский государственный университет**  
