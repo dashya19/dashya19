@@ -8,7 +8,7 @@
 - **Период обучения**: 2021 – 2025  
 - **Степень**: Бакалавриат
 
-**Научная статья**: [https://cyberleninka.ru/article/n/sistema-onlayn-zapisi-studentov-na-konsultatsii-k-prepodavatelyam]
+**Научная статья**: [Текст научной статьи по специальности «Экономика и бизнес»](https://cyberleninka.ru/article/n/sistema-onlayn-zapisi-studentov-na-konsultatsii-k-prepodavatelyam)
 
 ## 📞 Контакты
 
